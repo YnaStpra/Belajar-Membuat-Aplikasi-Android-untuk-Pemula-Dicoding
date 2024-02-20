@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">MyFinalSubmission</string>
+    <string name="home_string">Our Characters</string>
+    <string name="about_string">About</string>
+    <string name="detail_string">Detail</string>
+
+    <string name="characters_name">Characters Name</string>
+    <string name="description">Description</string>
+    <string name="voices">Voice Over by lorem ipsum dolor sit amet</string>
+    <string name="detail">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquam assumenda dolorem earum eligendi enim eum excepturi, exercitationem expedita fugiat, id impedit ipsa magnam maiores odit, officia optio provident quaerat quas quasi quis quod quos sed sint sit velit voluptas. Accusamus aut autem beatae, consectetur consequatur deleniti dicta dignissimos dolor dolore, dolores earum est et eum expedita inventore laborum laudantium libero minima minus modi molestiae non nulla officia perspiciatis quae quis quod rerum suscipit tempora voluptas? Adipisci architecto blanditiis debitis dolores eos excepturi facilis hic laudantium libero minima nesciunt, nihil nisi odit optio quasi recusandae sequi tenetur totam unde.</string>
+
+    <string name="image_splashscreen">image_splashscreen</string>
+
+    <string name="about">about</string>
+    <string name="share">share</string>
+    <string name="text_view">text_view</string>
+    <string name="todo">TODO</string>
+
+
+    <string-array name="names">
+        <item>Aldar</item>
+        <item>Ali</item>
+        <item>Arya</item>
+        <item>Dhira</item>
+        <item>Dwimas</item>
+        <item>Eky</item>
+        <item>Galih</item>
+        <item>Kiky</item>
+        <item>Rama</item>
+        <item>Rehan</item>
+        <item>Restu</item>
+        <item>Yan</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Hifcric Aldar\nStudent at Universitas Mataram</item>
+        <item>Ali An Nuur\nStudent at Universitas Mataram</item>
+        <item>Bagus Arya\nStudent at Universitas Mataram</item>
+        <item>Dhira Wahtu Febrian\nStudent at Universitas Mataram</item>
+        <item>Dimas Catur Nugraha\nStudent at Universitas Mataram</item>
+        <item>Rizky Sulihin\nStudent at Universitas Mataram</item>
+        <item>Galih Saputra\nStudent at Universitas Mataram</item>
+        <item>Risky Pram\nStudent at Universitas Mataram</item>
+        <item>Ramadhani Al-Qadri\nStudent at Universitas Mataram</item>
+        <item>M. Raihan\nStudent at Universitas Mataram</item>
+        <item>I Gede Restu\nStudent at Universitas Mataram</item>
+        <item>Yan Saputra\nStudent at Universitas Mataram</item>
+    </string-array>
+
+    <string-array name="voices">
+        <item>All in Divisi</item>
+        <item>Divisi Missing Person</item>
+        <item>Divisi PDD</item>
+        <item>Divisi Perlengkapan</item>
+        <item>Divisi Ketupat</item>
+        <item>Divisi Fifa Person</item>
+        <item>Divisi Missing Person #2</item>
+        <item>Divisi Pemburu Wanita</item>
+        <item>Divisi PDD</item>
+        <item>Divisi Koki Handal</item>
+        <item>Divisi PDD</item>
+        <item>Divisi Entahlah</item>
+    </string-array>
+
+
+    <string-array name="details">
+        <item>Aldar adalah salah anggota dari Rental Pes, dan merupakan orang yang sangat rajin dalam melakukan pekerjaan apapun didalam kegiatan acara yang diadakan Rental Pes </item>
+        <item>Ali Adalah anggota Rental Pes, yang selalu menghilang. dia fokus pada kegiatannta sendiri tanpa memikirkan kegiatan teman temannya.</item>
+        <item>Arya Adalah anggota Rental Pes, kadang ikut kadang nggk ikut agenda karena sibuk</item>
+        <item>Dhira Adalah anggota Rental Pes, anggota yang selalu iya iya gas gas aja dalam setiap agenda</item>
+        <item>Dwimas Adalah ketupat Rental Pes, semua agenda ada ditangan dia. apapun tidak boleh di hiraukan </item>
+        <item>Eky Adalah anggota Rental Pes, orang yang paling sibuk tapi dan sangat suka main FIFA </item>
+        <item>Galih Adalah anggota Rental Pes, intel kami yang sangat terampil dalam memberantas narkoba</item>
+        <item>Kiky Adalah anggota Rental Pes, orang yang selalu memikirkan wanita</item>
+        <item>Rama Adalah anggota Rental Pes, biasanya sadboy, biasanya pengen sendiri</item>
+        <item>Rehan Adalah anggota Rental Pes, ahli masak pada grup ini dan sangat banyak menu dia kuasai sebagai anak kos</item>
+        <item>Restu Adalah anggota Rental Pes, biasanya menjadi ketupat dadakan apabila ketupat utama tidak bisa mengikuti kegiatan</item>
+        <item>Yan Adalah anggota Rental Pes dan diri saya sendiri. saya lebih suka dalam kegiatan documentasi atau PDD. mengambil foto, video. lalu mengeditnya setelah kegiatan selesai</item>
+    </string-array>
+
+    <integer-array name="photos">
+        <item>@drawable/aldar</item>
+        <item>@drawable/ali</item>
+        <item>@drawable/arya</item>
+        <item>@drawable/dhira</item>
+        <item>@drawable/dwimas</item>
+        <item>@drawable/eky</item>
+        <item>@drawable/galih</item>
+        <item>@drawable/kiky</item>
+        <item>@drawable/rama</item>
+        <item>@drawable/rehan</item>
+        <item>@drawable/restu</item>
+        <item>@drawable/yan</item>
+    </integer-array>
+</resources>
